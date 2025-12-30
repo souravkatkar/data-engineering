@@ -1,0 +1,2 @@
+Hello from pathlib
+This is line 2
