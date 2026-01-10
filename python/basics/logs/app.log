@@ -1,0 +1,8 @@
+2026-01-10 19:29:28,008 | INFO | app | Logging configured from YAML
+2026-01-10 19:29:28,008 | ERROR | app | This error is logged via YAML config
+2026-01-10 19:29:31,908 | INFO | app | Logging configured from YAML
+2026-01-10 19:29:31,909 | ERROR | app | This error is logged via YAML config
+2026-01-10 19:29:45,376 | INFO | app | Logging configured from YAML
+2026-01-10 19:29:45,376 | ERROR | app | This error is logged via YAML config
+2026-01-10 19:30:06,741 | INFO | app | Logging configured from YAML
+2026-01-10 19:30:06,742 | ERROR | app | This error is logged via YAML config
